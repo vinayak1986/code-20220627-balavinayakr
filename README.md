@@ -2,7 +2,7 @@
 A command-line Python program which calculates BMI from JSON data stored in the
 *data/* folder. It also determines *BMI Category* & *Health Risk* based on the calculated
 BMI value. The program prints the count of overweight people to the console, i.e.,
-people with BMI in the range 25 - 29.9.
+count of people with BMI in the range 25 - 29.9.
 
 ## Usage
 Run the program by the below steps:
